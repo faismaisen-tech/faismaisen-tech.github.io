@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.faismaisen_tech.twa",
+    "sha256_cert_fingerprints": ["24:5E:6C:CD:49:93:6D:2D:10:63:00:EB:79:42:AC:53:C3:D2:5C:50:7F:58:97:80:90:BF:4B:09:3C:DD:95:C7"]
+  }
+}]
